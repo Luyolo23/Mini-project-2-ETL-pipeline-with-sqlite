@@ -10,7 +10,7 @@ This repository contains a small ETL (Extract, Transform, Load) demonstrator usi
 
 ## Requirements
 
-- Python 3.8+ (3.10 or later recommended)
+- Python 3.8+
 - Jupyter (notebook or lab)
 - pandas
 - sqlite3 (standard library)
