@@ -1,0 +1,7 @@
+order_id,customer_name,order_date,product,quantity,unit_price,country
+1001,Sipho Dlamini,2025-01-15,Laptop,1,1200.00,South Africa
+1002,Kweku Smith,2025-01-16,Mouse,5,25.50,Ghana
+1003,Alice Brown,2025-01-17,Keyboard,2,75.00,UK
+1004,Sakhile Motsipe,2025-01-18,Monitor,1,350.99,South Africa
+1005,,2025-01-19,Laptop,3,1150.00,Kenya
+1006,Sibusiso Mkhize,2025-01-20,Mouse,10,24.99,South Africa
